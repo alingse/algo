@@ -41,11 +41,10 @@ This repository is for daily LeetCode problem-solving practice.
 
 ### Getting Started
 
-1. Clone this repository
-2. Install the LeetCode VSCode extension
-3. Sign in to your LeetCode account
-4. Pick a problem and start coding!
-5. Use the commit command to save your progress
+1. Install the LeetCode VSCode extension
+2. Sign in to your LeetCode account
+3. Pick a problem and start coding!
+4. Use the commit command to save your progress
 
 ---
 
@@ -85,10 +84,11 @@ This repository is for daily LeetCode problem-solving practice.
 
 ### 开始使用
 
-1. 克隆此仓库
-2. 安装 LeetCode VSCode 扩展
-3. 登录你的 LeetCode 账户
-4. 选择题目开始编码！
-5. 使用提交命令保存进度
+1. 安装 LeetCode VSCode 扩展
+2. 登录你的 LeetCode 账户
+3. 选择题目开始编码！
+4. 使用提交命令保存进度
 
-Happy coding! 🚀 | 祝你刷题愉快！🚀
+祝你早日找到心仪的工作！💪
+
+Happy coding! 🚀 | 祝你刷题愉快，早日找到心仪工作！🚀
