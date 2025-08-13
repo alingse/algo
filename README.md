@@ -1,7 +1,7 @@
 # LeetCode Practice Repository | LeetCode 练习仓库
 
 This repository is for daily LeetCode problem-solving practice.
-这个仓库用于我日常 LeetCode 刷题练习。
+用这个仓库记录我的 LeetCode 刷题历程。
 
 ---
 
@@ -50,26 +50,26 @@ This repository is for daily LeetCode problem-solving practice.
 
 ## 中文
 
-### 工作流程
+### 我的计划
 
 1. **每日练习**
-   - 我尽量每天下班后做一道 LeetCode 题
+   - 每天下班后至少做一道题
    - 坚持是提高解题能力的关键
 
 2. **难度递进**
-   - 我从简单题开始，逐步过渡到中等和困难题
-   - 遇到难题我不放弃
-   - 适当休息，换个角度再思考
+   - 从简单开始，慢慢做到中等和困难
+   - 遇到难题不放弃
+   - 实在想不出来就休息一下，回头再想
 
 3. **使用 LeetCode VSCode 插件**
-   - 我使用 [LeetCode VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)
-   - 我直接在 VSCode 中解题
-   - 该插件提供了浏览和解决问题的便捷界面
+   - 用 [LeetCode VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)
+   - 直接在 VSCode 里刷题
+   - 插件用起来很方便
 
 4. **提交代码**
-   - 我完成题目后，使用 Claude Code 提交代码
+   - 做完题目后，用 Claude Code 提交
    - 命令：`claude -p "/commit-code"`
-   - 这将自动添加所有更改，生成 AI 提交信息，并推送到仓库
+   - 会自动添加更改、生成提交信息并推送到仓库
 
 ### 仓库结构
 
@@ -82,13 +82,13 @@ This repository is for daily LeetCode problem-solving practice.
 └── README.md          # 说明文件
 ```
 
-### 开始使用
+### 我的设置
 
-1. 我安装 LeetCode VSCode 扩展
-2. 我登录我的 LeetCode 账户
-3. 我选择题目开始编码！
-4. 我使用提交命令保存进度
+1. 安装 LeetCode VSCode 扩展
+2. 登录 LeetCode 账户
+3. 选题开始编码
+4. 用命令提交代码
 
-祝我早日找到心仪的工作！💪
+加油，找到好工作！💪
 
 Happy coding! 🚀 | 祝我刷题愉快，早日找到心仪工作！🚀
