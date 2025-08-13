@@ -1,8 +1,13 @@
-# LeetCode Practice Repository
+# LeetCode Practice Repository | LeetCode 练习仓库
 
 This repository is for daily LeetCode problem-solving practice.
+这个仓库用于日常 LeetCode 刷题练习。
 
-## Workflow
+---
+
+## English | 英文
+
+### Workflow
 
 1. **Daily Practice**
    - Try to solve at least one LeetCode problem every day after work
@@ -23,7 +28,7 @@ This repository is for daily LeetCode problem-solving practice.
    - Command: `claude -p "/commit-code"`
    - This will automatically add all changes, create an AI-generated commit message, and push to the repository
 
-## Repository Structure
+### Repository Structure
 
 ```
 .
@@ -34,7 +39,7 @@ This repository is for daily LeetCode problem-solving practice.
 └── README.md          # This file
 ```
 
-## Getting Started
+### Getting Started
 
 1. Clone this repository
 2. Install the LeetCode VSCode extension
@@ -42,4 +47,48 @@ This repository is for daily LeetCode problem-solving practice.
 4. Pick a problem and start coding!
 5. Use the commit command to save your progress
 
-Happy coding! 🚀
+---
+
+## 中文
+
+### 工作流程
+
+1. **每日练习**
+   - 尽量每天下班后做一道 LeetCode 题
+   - 坚持是提高解题能力的关键
+
+2. **难度递进**
+   - 从简单题开始，逐步过渡到中等和困难题
+   - 遇到难题不要放弃
+   - 适当休息，换个角度再思考
+
+3. **使用 LeetCode VSCode 插件**
+   - 安装 [LeetCode VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)
+   - 直接在 VSCode 中解题
+   - 该插件提供了浏览和解决问题的便捷界面
+
+4. **提交代码**
+   - 完成题目后，使用 Claude Code 提交代码
+   - 命令：`claude -p "/commit-code"`
+   - 这将自动添加所有更改，生成 AI 提交信息，并推送到仓库
+
+### 仓库结构
+
+```
+.
+├── leetcode/           # LeetCode 题解
+│   ├── 1.两数之和.go
+│   └── ...
+├── CLAUDE.md          # Claude Code 配置文件
+└── README.md          # 说明文件
+```
+
+### 开始使用
+
+1. 克隆此仓库
+2. 安装 LeetCode VSCode 扩展
+3. 登录你的 LeetCode 账户
+4. 选择题目开始编码！
+5. 使用提交命令保存进度
+
+Happy coding! 🚀 | 祝你刷题愉快！🚀
