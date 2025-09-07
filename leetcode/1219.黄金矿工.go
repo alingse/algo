@@ -7,6 +7,7 @@
 // @lc code=start
 func getMaximumGold(grid [][]int) int {
 	maxGold := 0
+	// 从每个格子开始搜索
 	for i := 0; i < len(grid); i++ {
 		for j := 0; j < len(grid[0]); j++ {
 			gold := check(grid, i, j)
@@ -17,6 +18,8 @@ func getMaximumGold(grid [][]int) int {
 	}
 	return maxGold
 }
+
+// 不用传入当前的 gold，在最上层计算即可
 func check(grid [][]int, i, j int) int {
 	if i < 0 || i >= len(grid) || j < 0 || j >= len(grid[0]) || grid[i][j] == 0 {
 		return 0
